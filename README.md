@@ -1,5 +1,4 @@
-# Trust Me, I'm an Agent
-### A Security Measurement of Permission and Privilege Exposure in Open-Source LLM Agents
+# Trust Me, I'm an Agent: A Security Measurement of Permission and Privilege Exposure in Open-Source LLM Agents
 
 > **Status — Research preview, work-in-progress.**
 > This repository accompanies an ongoing security-measurement study.
