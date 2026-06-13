@@ -1,0 +1,6085 @@
+{
+  "summary": {
+    "total_unique_repos": 607,
+    "active": 563,
+    "active_direct": 542,
+    "active_redirected": 21,
+    "gone_404": 44,
+    "in_v1": 270,
+    "in_v2": 607,
+    "in_both": 270,
+    "checked_at_utc": "2026-06-13"
+  },
+  "repos": [
+    {
+      "url": "https://github.com/0xdorifto/NFTsWithBenefits",
+      "owner_repo": "0xdorifto/NFTsWithBenefits",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/gastaofaria/NFTsWithBenefits",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/0xSteph/pentest-ai-agents",
+      "owner_repo": "0xSteph/pentest-ai-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/0xSteph/pentest-ai-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/1810suman/Agri_Vision",
+      "owner_repo": "1810suman/Agri_Vision",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/1810suman/Agri_Vision",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/335234131/agent-browser-mcp",
+      "owner_repo": "335234131/agent-browser-mcp",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/335234131/agent-browser-mcp",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/a16z-infra/ai-town",
+      "owner_repo": "a16z-infra/ai-town",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/a16z-infra/ai-town",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AbdooMohamedd/Multi-Agent-YouTube-Summarizer-System",
+      "owner_repo": "AbdooMohamedd/Multi-Agent-YouTube-Summarizer-System",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AbdooMohamedd/Multi-Agent-YouTube-Summarizer-System",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Abdulbasit110/candidate-screening-agent",
+      "owner_repo": "Abdulbasit110/candidate-screening-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Abdulbasit110/candidate-screening-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/abdulrabbt/subtitle-translation-agent",
+      "owner_repo": "abdulrabbt/subtitle-translation-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/abdulrabbt/subtitle-translation-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/abelponce03/Hex-IA-2025",
+      "owner_repo": "abelponce03/Hex-IA-2025",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/abelponce03/Hex-IA-2025",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/abhi-abhi86/disease-predictor",
+      "owner_repo": "abhi-abhi86/disease-predictor",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/abhi-abhi86/disease-predictor",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/achalise/llm-experiments",
+      "owner_repo": "achalise/llm-experiments",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/achalise/llm-experiments",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "owner_repo": "affaan-m/ECC",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/affaan-m/ECC",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ag2ai/ag2",
+      "owner_repo": "ag2ai/ag2",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ag2ai/ag2",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Agent-Reach/Agent-Reach",
+      "owner_repo": "Agent-Reach/Agent-Reach",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+      "owner_repo": "Agent-Threat-Rule/agent-threat-rules",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AgentBudget/agentbudget",
+      "owner_repo": "AgentBudget/agentbudget",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AgentBudget/agentbudget",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agentgateway/agentgateway",
+      "owner_repo": "agentgateway/agentgateway",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agentgateway/agentgateway",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+      "owner_repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "owner_repo": "agentscope-ai/agentscope",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agentscope-ai/agentscope",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "owner_repo": "agentscope-ai/QwenPaw",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agentscope-ai/QwenPaw",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AgentTax/agenttax-agent",
+      "owner_repo": "AgentTax/agenttax-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AgentTax/agenttax-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agentuniverse-ai/agentUniverse",
+      "owner_repo": "agentuniverse-ai/agentUniverse",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agentuniverse-ai/agentUniverse",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agiresearch/ASB",
+      "owner_repo": "agiresearch/ASB",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agiresearch/ASB",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agno-agi/agent-api",
+      "owner_repo": "agno-agi/agent-api",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agno-agi/agent-api",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agno-agi/agno",
+      "owner_repo": "agno-agi/agno",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agno-agi/agno",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/agno-agi/phidata",
+      "owner_repo": "agno-agi/phidata",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/agno-agi/phidata",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ai-evos/agent-skills",
+      "owner_repo": "ai-evos/agent-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ai-evos/agent-skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ai-guide/ai-guide",
+      "owner_repo": "ai-guide/ai-guide",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AI-Hub-Admin/HealthcareAgent",
+      "owner_repo": "AI-Hub-Admin/HealthcareAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/aiagenta2z/HealthcareAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AI-Hub-Admin/LawAgent",
+      "owner_repo": "AI-Hub-Admin/LawAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/aiagenta2z/LawAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ai-safety-institute/AgentHarm",
+      "owner_repo": "ai-safety-institute/AgentHarm",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ai16z/eliza",
+      "owner_repo": "ai16z/eliza",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/elizaOS/eliza",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "owner_repo": "aiming-lab/AutoResearchClaw",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aiwaves-cn/agents",
+      "owner_repo": "aiwaves-cn/agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aiwaves-cn/agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ajhcs/healthcare-agents",
+      "owner_repo": "ajhcs/healthcare-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ajhcs/healthcare-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AkshatBhat/Langflow-Customer-Support-Agent",
+      "owner_repo": "AkshatBhat/Langflow-Customer-Support-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AkshatBhat/Langflow-Customer-Support-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
+      "owner_repo": "AleksNeStu/ai-real-estate-assistant",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/alex-jb/orallexa-ai-trading-agent",
+      "owner_repo": "alex-jb/orallexa-ai-trading-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/alex-jb/orallexa-ai-trading-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "owner_repo": "Alibaba-NLP/DeepResearch",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "owner_repo": "All-Hands-AI/OpenHands",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/OpenHands/OpenHands",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Allen091080/flashcard-maker",
+      "owner_repo": "Allen091080/flashcard-maker",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Allen091080/flashcard-maker",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/allenai/agent-baselines",
+      "owner_repo": "allenai/agent-baselines",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/allenai/agent-baselines",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/allenai/asta-paper-finder",
+      "owner_repo": "allenai/asta-paper-finder",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/allenai/asta-paper-finder",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/allenai/panda",
+      "owner_repo": "allenai/panda",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/allenai/panda",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/allenai/super-benchmark",
+      "owner_repo": "allenai/super-benchmark",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/allenai/super-benchmark",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AlokTheDataGuy/Multi-Agent-Customer-Service-Chatbot",
+      "owner_repo": "AlokTheDataGuy/Multi-Agent-Customer-Service-Chatbot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AlokTheDataGuy/Multi-Agent-Customer-Service-Chatbot",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AlteraAI/GameBuddy",
+      "owner_repo": "AlteraAI/GameBuddy",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/amazon-science/AgentOccam",
+      "owner_repo": "amazon-science/AgentOccam",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/amazon-science/AgentOccam",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ana-biscalchin/ai-invoice-agent",
+      "owner_repo": "ana-biscalchin/ai-invoice-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ana-biscalchin/ai-invoice-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/andrewyng/translation-agent",
+      "owner_repo": "andrewyng/translation-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/andrewyng/translation-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/AndSam321/Vet-U",
+      "owner_repo": "AndSam321/Vet-U",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/AndSam321/Vet-U",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aneeshbukya/EmpowerHR--AI-Powered-HR-Agents",
+      "owner_repo": "aneeshbukya/EmpowerHR--AI-Powered-HR-Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aneeshbukya/EmpowerHR--AI-Powered-HR-Agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aniket-work/claims-intel-agent",
+      "owner_repo": "aniket-work/claims-intel-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aniket-work/claims-intel-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/anil-matcha/open-generative-ai",
+      "owner_repo": "anil-matcha/open-generative-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/anil-matcha/open-generative-ai",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/apache/flink-agents",
+      "owner_repo": "apache/flink-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/apache/flink-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ArcadeAI/agentic-todo-app",
+      "owner_repo": "ArcadeAI/agentic-todo-app",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ArcadeAI/agentic-todo-app",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ARCANGEL0/EVA",
+      "owner_repo": "ARCANGEL0/EVA",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ARCANGEL0/EVA",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/archanags001/AI-Report-Generator",
+      "owner_repo": "archanags001/AI-Report-Generator",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/archanags001/AI-Report-Generator",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "owner_repo": "Armur-Ai/Pentest-Swarm-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "owner_repo": "ashishpatel26/500-AI-Agents-Projects",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Ashutosh0x/adk-bot",
+      "owner_repo": "Ashutosh0x/adk-bot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Ashutosh0x/adk-bot",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/askbudi/tinyagent",
+      "owner_repo": "askbudi/tinyagent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/askbudi/tinyagent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/askbudi/TinyCodeAgent",
+      "owner_repo": "askbudi/TinyCodeAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/askbudi/TinyCodeAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "owner_repo": "assafelovic/gpt-researcher",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/assafelovic/gpt-researcher",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/astron-agent/astron-agent",
+      "owner_repo": "astron-agent/astron-agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/at-amine/ai-onboarding-agent",
+      "owner_repo": "at-amine/ai-onboarding-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/at-amine/ai-onboarding-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/atiyil/resume-agent-web",
+      "owner_repo": "atiyil/resume-agent-web",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/atiyil/resume-agent-web",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/atstaeff/ai-agents",
+      "owner_repo": "atstaeff/ai-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/atstaeff/ai-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/auliakd/AI-Enhanced-Research-Tools",
+      "owner_repo": "auliakd/AI-Enhanced-Research-Tools",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/auliakd/AI-Enhanced-Research-Tools",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/automators-com/test-automation-agent",
+      "owner_repo": "automators-com/test-automation-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/automators-com/test-automation-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/avivl/cloud-sre-agent",
+      "owner_repo": "avivl/cloud-sre-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/avivl/cloud-sre-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aws-samples/sample-agentic-insurance-claims-processing-eks",
+      "owner_repo": "aws-samples/sample-agentic-insurance-claims-processing-eks",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aws-samples/sample-agentic-insurance-claims-processing-eks",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aws-samples/sample-bedrock-deep-researcher",
+      "owner_repo": "aws-samples/sample-bedrock-deep-researcher",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aws-samples/sample-bedrock-deep-researcher",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/aws-samples/sample-Dynamic-Text-to-SQL-with-Amazon-Bedrock-Agent",
+      "owner_repo": "aws-samples/sample-Dynamic-Text-to-SQL-with-Amazon-Bedrock-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/aws-samples/sample-Dynamic-Text-to-SQL-with-Amazon-Bedrock-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/awslabs/agentcore-samples",
+      "owner_repo": "awslabs/agentcore-samples",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/awslabs/agentcore-samples",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/awslabs/amazon-bedrock-agent-samples",
+      "owner_repo": "awslabs/amazon-bedrock-agent-samples",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/awslabs/amazon-bedrock-agent-samples",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/awslabs/threat-designer",
+      "owner_repo": "awslabs/threat-designer",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/awslabs/threat-designer",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ayimdji/certification-prep-ai-agents",
+      "owner_repo": "ayimdji/certification-prep-ai-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ayimdji/certification-prep-ai-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Azure/AI-Dev-Days-Hackathon",
+      "owner_repo": "Azure/AI-Dev-Days-Hackathon",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Azure/AI-Dev-Days-Hackathon",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Azure/azure-ai-agents-labs",
+      "owner_repo": "Azure/azure-ai-agents-labs",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Azure/azure-ai-agents-labs",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/baloglu321/estate-agent",
+      "owner_repo": "baloglu321/estate-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/baloglu321/estate-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/barcia/running-coach-skill",
+      "owner_repo": "barcia/running-coach-skill",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/barcia/running-coach-skill",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/basnijholt/agent-cli",
+      "owner_repo": "basnijholt/agent-cli",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/basnijholt/agent-cli",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/BennisonDevadoss/langgraph-scheduler-agent",
+      "owner_repo": "BennisonDevadoss/langgraph-scheduler-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/BennisonDevadoss/langgraph-scheduler-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/BerriAI/litellm",
+      "owner_repo": "BerriAI/litellm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/BerriAI/litellm",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/BharathxD/ClaimeAI",
+      "owner_repo": "BharathxD/ClaimeAI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/BharathxD/ClaimeAI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/bhaveshpatil093/TRIX-AI",
+      "owner_repo": "bhaveshpatil093/TRIX-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/bhaveshpatil093/TRIX-AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/bigph00t/hermescraft",
+      "owner_repo": "bigph00t/hermescraft",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/bigph00t/hermescraft",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Blackfrost-AI/agentguard-mcp",
+      "owner_repo": "Blackfrost-AI/agentguard-mcp",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Blackfrost-AI/agentguard-mcp",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/blacktwist/social-media-skills",
+      "owner_repo": "blacktwist/social-media-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/blacktwist/social-media-skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Blaise-Shyaka/momo-expenses-langraph-ai-agent",
+      "owner_repo": "Blaise-Shyaka/momo-expenses-langraph-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Blaise-Shyaka/momo-expenses-langraph-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Blattvorhang/Planning-Agent",
+      "owner_repo": "Blattvorhang/Planning-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Blattvorhang/Planning-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/BleeGleeWee/Voice-Based-Native-Language-Service-Agent-",
+      "owner_repo": "BleeGleeWee/Voice-Based-Native-Language-Service-Agent-",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/BleeGleeWee/Voice-Based-Native-Language-Service-Agent-",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/blendsdk/git-commit-agent",
+      "owner_repo": "blendsdk/git-commit-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/blendsdk/git-commit-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/block/goose",
+      "owner_repo": "block/goose",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/aaif-goose/goose",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/browser-use/browser-harness",
+      "owner_repo": "browser-use/browser-harness",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/browser-use/browser-harness",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/browser-use/browser-use",
+      "owner_repo": "browser-use/browser-use",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/browser-use/browser-use",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/browser-use/web-ui",
+      "owner_repo": "browser-use/web-ui",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/browser-use/web-ui",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/browserbase/stagehand",
+      "owner_repo": "browserbase/stagehand",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/browserbase/stagehand",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/business-science/ai-data-science-team",
+      "owner_repo": "business-science/ai-data-science-team",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/business-science/ai-data-science-team",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/buywhere/buywhere",
+      "owner_repo": "buywhere/buywhere",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/buywhere/buywhere",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/bytedance/deer-flow",
+      "owner_repo": "bytedance/deer-flow",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/bytedance/deer-flow",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/c5huracan/a1-agent-exploration",
+      "owner_repo": "c5huracan/a1-agent-exploration",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/c5huracan/a1-agent-exploration",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/camel-ai/camel",
+      "owner_repo": "camel-ai/camel",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/camel-ai/camel",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/camel-ai/owl",
+      "owner_repo": "camel-ai/owl",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/camel-ai/owl",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "owner_repo": "caramaschiHG/awesome-ai-agents-2026",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/carlossg/kubernetes-agent",
+      "owner_repo": "carlossg/kubernetes-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/carlossg/kubernetes-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/carlyrichmond/travel-planner-ai-agent",
+      "owner_repo": "carlyrichmond/travel-planner-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/carlyrichmond/travel-planner-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/CGCodes/MeetingMemo",
+      "owner_repo": "CGCodes/MeetingMemo",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/chainstacklabs/web3-ai-trading-agent",
+      "owner_repo": "chainstacklabs/web3-ai-trading-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/chainstacklabs/web3-ai-trading-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/chapagainmanoj/ai-job-apply-agent",
+      "owner_repo": "chapagainmanoj/ai-job-apply-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/chapagainmanoj/ai-job-apply-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ChenWu98/agent-attack",
+      "owner_repo": "ChenWu98/agent-attack",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ChenWu98/agent-attack",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/chrislatimer/microagent",
+      "owner_repo": "chrislatimer/microagent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/chrislatimer/microagent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/cirwel/unitares",
+      "owner_repo": "cirwel/unitares",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/cirwel/unitares",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/cisco-ai-defense/skill-scanner",
+      "owner_repo": "cisco-ai-defense/skill-scanner",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/cisco-ai-defense/skill-scanner",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/coasty-ai/open-computer-use",
+      "owner_repo": "coasty-ai/open-computer-use",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/coasty-ai/open-computer-use",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/codeananda/fakt_ai",
+      "owner_repo": "codeananda/fakt_ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/codeananda/fakt_ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/coleam00/ai-agents-masterclass",
+      "owner_repo": "coleam00/ai-agents-masterclass",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/coleam00/ai-agents-masterclass",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/coleam00/Archon",
+      "owner_repo": "coleam00/Archon",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/coleam00/Archon",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/colesmcintosh/social-media-agent-system",
+      "owner_repo": "colesmcintosh/social-media-agent-system",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/colesmcintosh/social-media-agent-system",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/comet-ml/opik",
+      "owner_repo": "comet-ml/opik",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/comet-ml/opik",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ConardLi/easy-llm-cli",
+      "owner_repo": "ConardLi/easy-llm-cli",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ConardLi/easy-llm-cli",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/consilience-dev/consensia-news-agent",
+      "owner_repo": "consilience-dev/consensia-news-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/consilience-dev/consensia-news-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/contains-studio/agents",
+      "owner_repo": "contains-studio/agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/contains-studio/agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/crewaihello/hello-agents",
+      "owner_repo": "crewaihello/hello-agents",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/crewaiinc/crewai",
+      "owner_repo": "crewaiinc/crewai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/crewaiinc/crewai",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/crewAIInc/crewAI-cookbook",
+      "owner_repo": "crewAIInc/crewAI-cookbook",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/crewAIInc/crewAI-examples",
+      "owner_repo": "crewAIInc/crewAI-examples",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/crewAIInc/crewAI-examples",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/crimeacs/translator_agent",
+      "owner_repo": "crimeacs/translator_agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/crimeacs/translator_agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Crossmint/delivery-agent",
+      "owner_repo": "Crossmint/delivery-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Crossmint/delivery-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Crossmint/worldstore-agent",
+      "owner_repo": "Crossmint/worldstore-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Crossmint/worldstore-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/CrowdStrike/AI-Security-Agent",
+      "owner_repo": "CrowdStrike/AI-Security-Agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/cseHdz/Forward-Planning-Agent",
+      "owner_repo": "cseHdz/Forward-Planning-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/cseHdz/Forward-Planning-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/CUHK-ARISE/GAMABench",
+      "owner_repo": "CUHK-ARISE/GAMABench",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/CUHK-ARISE/GAMABench",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/CVxTz/document_ai_agents",
+      "owner_repo": "CVxTz/document_ai_agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/CVxTz/document_ai_agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Cyb3rWard0g/HF-Agents-Course-Notes",
+      "owner_repo": "Cyb3rWard0g/HF-Agents-Course-Notes",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Cyb3rWard0g/HF-Agents-Course-Notes",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Cyberweasel777/agent-action-receipt-spec",
+      "owner_repo": "Cyberweasel777/agent-action-receipt-spec",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Cyberweasel777/agent-action-receipt-spec",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Danau5tin/multi-agent-coding-system",
+      "owner_repo": "Danau5tin/multi-agent-coding-system",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Danau5tin/multi-agent-coding-system",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/daniel-debrun/LegalNexus",
+      "owner_repo": "daniel-debrun/LegalNexus",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/daniel-debrun/LegalNexus",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/danieljpalmer/llm-analyst",
+      "owner_repo": "danieljpalmer/llm-analyst",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/danieljpalmer/llm-analyst",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/danielrosehill/AI-Resume",
+      "owner_repo": "danielrosehill/AI-Resume",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/danielrosehill/AI-Resume",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+      "owner_repo": "datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/datakind/climate-change-assistant",
+      "owner_repo": "datakind/climate-change-assistant",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/datakind/climate-change-assistant",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/DavidLMS/aphra",
+      "owner_repo": "DavidLMS/aphra",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/DavidLMS/aphra",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/dcSpark/shinkai-local-ai-agents",
+      "owner_repo": "dcSpark/shinkai-local-ai-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/dcSpark/shinkai-local-ai-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/deepset-ai/haystack",
+      "owner_repo": "deepset-ai/haystack",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/deepset-ai/haystack",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/deepset-ai/haystack-cookbook",
+      "owner_repo": "deepset-ai/haystack-cookbook",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/deepset-ai/haystack-cookbook",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/deng-ai-lab/RF-Agent",
+      "owner_repo": "deng-ai-lab/RF-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/deng-ai-lab/RF-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/derek-opdee/subagent-example-script",
+      "owner_repo": "derek-opdee/subagent-example-script",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/derek-codebridge/subagent-example-script",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/DevDizzle/galatiq-invoice-agent",
+      "owner_repo": "DevDizzle/galatiq-invoice-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/DevDizzle/galatiq-invoice-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/dhruvldrp9/News_Agent",
+      "owner_repo": "dhruvldrp9/News_Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/dhruvldrp9/News_Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/DhyeyR-007/Reinforcement-Learning-RL-vs-GPT-LLM-at-Chess-",
+      "owner_repo": "DhyeyR-007/Reinforcement-Learning-RL-vs-GPT-LLM-at-Chess-",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/DhyeyR-007/Reinforcement-Learning-RL-vs-GPT-LLM-at-Chess-",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/divar-ir/ai-doc-gen",
+      "owner_repo": "divar-ir/ai-doc-gen",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/divar-ir/ai-doc-gen",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/dominikcebula/aws-ai-bedrock-agentcore-shopping-agent",
+      "owner_repo": "dominikcebula/aws-ai-bedrock-agentcore-shopping-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/dominikcebula/aws-ai-bedrock-agentcore-shopping-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Doriandarko/kimi-writer",
+      "owner_repo": "Doriandarko/kimi-writer",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Doriandarko/kimi-writer",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/dsclca12/agent-teams",
+      "owner_repo": "dsclca12/agent-teams",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/dsclca12/agent-teams",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/duolingo/slack-ai-agent",
+      "owner_repo": "duolingo/slack-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/duolingo/slack-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/dyingpotato890/frame-ai",
+      "owner_repo": "dyingpotato890/frame-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/dyingpotato890/frame-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "owner_repo": "e2b-dev/awesome-ai-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ed-donner/agents",
+      "owner_repo": "ed-donner/agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ed-donner/agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/edilma/ai-blog-app",
+      "owner_repo": "edilma/ai-blog-app",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/edilma/ai-blog-app",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/eduardomoacir/brazilian-invoice-ai-agent",
+      "owner_repo": "eduardomoacir/brazilian-invoice-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/eduardomoacir/brazilian-invoice-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Elan-Rubin/codefest_2025",
+      "owner_repo": "Elan-Rubin/codefest_2025",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/Elan-Rubin/Ready-Set-Insure",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/em-llm/EM-LLM-model",
+      "owner_repo": "em-llm/EM-LLM-model",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/em-llm/EM-LLM-model",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Emarhnuel/Insurance-AI-agent",
+      "owner_repo": "Emarhnuel/Insurance-AI-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Emarhnuel/Insurance-AI-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/embodied-ai/embodied-agents",
+      "owner_repo": "embodied-ai/embodied-agents",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "owner_repo": "enescingoz/awesome-n8n-templates",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/enola-dev/cooking-agent",
+      "owner_repo": "enola-dev/cooking-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/enola-dev/cooking-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ErfanMomeniii/chef-gpt",
+      "owner_repo": "ErfanMomeniii/chef-gpt",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ErfanMomeniii/chef-gpt",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ERFFFFF/Music_Agent",
+      "owner_repo": "ERFFFFF/Music_Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ERFFFFF/Music_Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/escapeboy/agent-fleet-o",
+      "owner_repo": "escapeboy/agent-fleet-o",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/escapeboy/agent-fleet-o",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/evolsb/claude-legal-skill",
+      "owner_repo": "evolsb/claude-legal-skill",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/evolsb/claude-legal-skill",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/facebookresearch/MRQ",
+      "owner_repo": "facebookresearch/MRQ",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/facebookresearch/MRQ",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Farama-Foundation/PettingZoo",
+      "owner_repo": "Farama-Foundation/PettingZoo",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Farama-Foundation/PettingZoo",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/FayElhassan/AI-for-Sustainable-Agriculture",
+      "owner_repo": "FayElhassan/AI-for-Sustainable-Agriculture",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/FayElhassan/AI-for-Sustainable-Agriculture",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/feilaz/AI_Powered_Math_Tutoring",
+      "owner_repo": "feilaz/AI_Powered_Math_Tutoring",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/feilaz/AI_Powered_Math_Tutoring",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/felipejac/aigents_research",
+      "owner_repo": "felipejac/aigents_research",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/felipejac/aigents_research",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/FelixNg1022/JobMatch-AI",
+      "owner_repo": "FelixNg1022/JobMatch-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/FelixNg1022/JobMatch-AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/firecrawl/firecrawl",
+      "owner_repo": "firecrawl/firecrawl",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/firecrawl/firecrawl",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/firecrawl/web-agent",
+      "owner_repo": "firecrawl/web-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/firecrawl/web-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/FLAIROx/JaxMARL",
+      "owner_repo": "FLAIROx/JaxMARL",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/FLAIROx/JaxMARL",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "owner_repo": "Fosowl/agenticSeek",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Fosowl/agenticSeek",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "owner_repo": "FoundationAgents/MetaGPT",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/FoundationAgents/MetaGPT",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/frdel/agent-zero",
+      "owner_repo": "frdel/agent-zero",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/agent0ai/agent-zero",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/fugazi/test-automation-skills-agents",
+      "owner_repo": "fugazi/test-automation-skills-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/fugazi/test-automation-skills-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/fuzzylabs/sre-agent",
+      "owner_repo": "fuzzylabs/sre-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/fuzzylabs/sre-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/fxstein/ai-todo",
+      "owner_repo": "fxstein/ai-todo",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/fxstein/ai-todo",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/gabrielmahia/mpesa-mcp",
+      "owner_repo": "gabrielmahia/mpesa-mcp",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/gabrielmahia/mpesa-mcp",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/garylab/MakeMoneyWithAI",
+      "owner_repo": "garylab/MakeMoneyWithAI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/garylab/MakeMoneyWithAI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GDIAMEL/AI-POWERED-CROP-YIELD-PREDICTOR-FOR-SMALL-SCALE-FARMERS",
+      "owner_repo": "GDIAMEL/AI-POWERED-CROP-YIELD-PREDICTOR-FOR-SMALL-SCALE-FARMERS",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/GDIAMEL/AI-POWERED-CROP-YIELD-PREDICTOR-FOR-SMALL-SCALE-FARMERS",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/geek-ai/MAgent",
+      "owner_repo": "geek-ai/MAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/geek-ai/MAgent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/geekan/MetaGPT",
+      "owner_repo": "geekan/MetaGPT",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/FoundationAgents/MetaGPT",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GeminiLight/awesome-ai-llm4education",
+      "owner_repo": "GeminiLight/awesome-ai-llm4education",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/GeminiLight/awesome-ai-llm4education",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GenAI-Gurus/awesome-eu-ai-act",
+      "owner_repo": "GenAI-Gurus/awesome-eu-ai-act",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/GenAI-Gurus/awesome-eu-ai-act",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GH05TCREW/PentestAgent",
+      "owner_repo": "GH05TCREW/PentestAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/GH05TCREW/PentestAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/gigamaster/ai-media-agent",
+      "owner_repo": "gigamaster/ai-media-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/gigamaster/ai-media-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
+      "owner_repo": "GiovanniPasq/agentic-rag-for-dummies",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/git-ai-project/git-ai",
+      "owner_repo": "git-ai-project/git-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/git-ai-project/git-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/git-disl/awesome-LLM-game-agent-papers",
+      "owner_repo": "git-disl/awesome-LLM-game-agent-papers",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/git-disl/awesome-LLM-game-agent-papers",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GoetzKohlberg/sidjua",
+      "owner_repo": "GoetzKohlberg/sidjua",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/GoetzKohlberg/sidjua",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/GooeyAI/documentation",
+      "owner_repo": "GooeyAI/documentation",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/GooeyAI/docs",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-agentic-commerse/agent-payments-protocol",
+      "owner_repo": "google-agentic-commerse/agent-payments-protocol",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-deepmind/lab",
+      "owner_repo": "google-deepmind/lab",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google-deepmind/lab",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-deepmind/meltingpot",
+      "owner_repo": "google-deepmind/meltingpot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google-deepmind/meltingpot",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-deepmind/open_spiel",
+      "owner_repo": "google-deepmind/open_spiel",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google-deepmind/open_spiel",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-deepmind/scalable_agent",
+      "owner_repo": "google-deepmind/scalable_agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google-deepmind/scalable_agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "owner_repo": "google-gemini/gemini-cli",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google-gemini/gemini-cli",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google-research/google-research",
+      "owner_repo": "google-research/google-research",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google-research/google-research",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google/adk-docs",
+      "owner_repo": "google/adk-docs",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/google/adk-docs",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/google/genai-toolbox",
+      "owner_repo": "google/genai-toolbox",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/grupa-ai/agent-mcp",
+      "owner_repo": "grupa-ai/agent-mcp",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/grupa-ai/agent-mcp",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/h2oai/h2oai-flood-intelligence-agent",
+      "owner_repo": "h2oai/h2oai-flood-intelligence-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/h2oai/h2oai-flood-intelligence-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/haasonsaas/email-agent",
+      "owner_repo": "haasonsaas/email-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/haasonsaas/email-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Hamid-Rezaei/Berkeley-AI-Projects",
+      "owner_repo": "Hamid-Rezaei/Berkeley-AI-Projects",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Hamid-Rezaei/Berkeley-AI-Projects",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hamyxyz/blog",
+      "owner_repo": "hamyxyz/blog",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement",
+      "owner_repo": "hanglearning/ucb-pacman-multiagent-reinforcement",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/haroon-sajid/resume-screening-app",
+      "owner_repo": "haroon-sajid/resume-screening-app",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/haroon-sajid/resume-screening-app",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/harshmriduhash/Social-Media-AI-Agent",
+      "owner_repo": "harshmriduhash/Social-Media-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/harshmriduhash/Social-Media-AI-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hashgraph-online/awesome-ai-plugins",
+      "owner_repo": "hashgraph-online/awesome-ai-plugins",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hashgraph-online/awesome-ai-plugins",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HeadyZhang/agent-audit",
+      "owner_repo": "HeadyZhang/agent-audit",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HeadyZhang/agent-audit",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hgky95/smart-caption-ai",
+      "owner_repo": "hgky95/smart-caption-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hgky95/smart-caption-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/higress-group/higress-report-agent",
+      "owner_repo": "higress-group/higress-report-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/higress-group/higress-report-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hilkoc/AI_Arena",
+      "owner_repo": "hilkoc/AI_Arena",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hilkoc/AI_Arena",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hima12-awny/documentation-chat-agent",
+      "owner_repo": "hima12-awny/documentation-chat-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hima12-awny/documentation-chat-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "owner_repo": "hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hku-daga/AI-Powered-Medical-Diagnosis",
+      "owner_repo": "hku-daga/AI-Powered-Medical-Diagnosis",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HKU-DS/DeepInnovator",
+      "owner_repo": "HKU-DS/DeepInnovator",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HKUDS/AI-Researcher",
+      "owner_repo": "HKUDS/AI-Researcher",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HKUDS/AI-Researcher",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HKUDS/Auto-Deep-Research",
+      "owner_repo": "HKUDS/Auto-Deep-Research",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HKUDS/Auto-Deep-Research",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HKUDS/DeepInnovator",
+      "owner_repo": "HKUDS/DeepInnovator",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HKUDS/DeepInnovator",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "owner_repo": "HKUDS/DeepTutor",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HKUDS/DeepTutor",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HKUDS/VideoAgent",
+      "owner_repo": "HKUDS/VideoAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HKUDS/VideoAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hmshb/scraping-agent-ai",
+      "owner_repo": "hmshb/scraping-agent-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hmshb/scraping-agent-ai",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Hoar012/Awesome-Multimodal-Embodied-AI",
+      "owner_repo": "Hoar012/Awesome-Multimodal-Embodied-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Hoar012/Awesome-Multimodal-Embodied-AI",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hsiangwei0903/SpatialAgent",
+      "owner_repo": "hsiangwei0903/SpatialAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hsiangwei0903/SpatialAgent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/hspark1212/synthesis-agent",
+      "owner_repo": "hspark1212/synthesis-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/hspark1212/synthesis-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/huabeitech/agent-desk",
+      "owner_repo": "huabeitech/agent-desk",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/huabeitech/agent-desk",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/huggingface/agents-course",
+      "owner_repo": "huggingface/agents-course",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/huggingface/agents-course",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/huggingface/hf-agents",
+      "owner_repo": "huggingface/hf-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/huggingface/hf-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/huggingface/smolagents",
+      "owner_repo": "huggingface/smolagents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/huggingface/smolagents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/humanlayer/humanlayer",
+      "owner_repo": "humanlayer/humanlayer",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/humanlayer/humanlayer",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/HySonLab/FactAgent",
+      "owner_repo": "HySonLab/FactAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/HySonLab/FactAgent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/IAmUnbounded/fake-news-detector-agent",
+      "owner_repo": "IAmUnbounded/fake-news-detector-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/IAmUnbounded/fake-news-detector-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ibm-customer-service/ai-agent-toolkit",
+      "owner_repo": "ibm-customer-service/ai-agent-toolkit",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/IBM/Agentics",
+      "owner_repo": "IBM/Agentics",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/IBM/Agentics",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/icip-cas/PPTAgent",
+      "owner_repo": "icip-cas/PPTAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/icip-cas/PPTAgent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025",
+      "owner_repo": "igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/imanoop7/AI-Agents-as-Personal-Trainers--Customizing-Fitness-Routines-with-LLMs",
+      "owner_repo": "imanoop7/AI-Agents-as-Personal-Trainers--Customizing-Fitness-Routines-with-LLMs",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/imanoop7/AI-Agents-as-Personal-Trainers--Customizing-Fitness-Routines-with-LLMs",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/InboraStudio/Subtitle-Generator-AI",
+      "owner_repo": "InboraStudio/Subtitle-Generator-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/InboraStudio/Subtitle-Generator-AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/indcoder/agentcamp-workshop-langchain",
+      "owner_repo": "indcoder/agentcamp-workshop-langchain",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/indcoder/agentcamp-workshop-langchain",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/infiniflow/ragflow",
+      "owner_repo": "infiniflow/ragflow",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/infiniflow/ragflow",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/innovatewithkishlay/AI-BASED_PET_HEALTH_ASSISTANCE_SYSTEM",
+      "owner_repo": "innovatewithkishlay/AI-BASED_PET_HEALTH_ASSISTANCE_SYSTEM",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/innovatewithkishlay/AI-BASED_PET_HEALTH_ASSISTANCE_SYSTEM",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/instadeepai/Mava",
+      "owner_repo": "instadeepai/Mava",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/instadeepai/Mava",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/InternLM/WildClawBench",
+      "owner_repo": "InternLM/WildClawBench",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/InternLM/WildClawBench",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents",
+      "owner_repo": "ishandutta2007/Awesome-Powerpoint-AI-Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ishenli/investment-agent",
+      "owner_repo": "ishenli/investment-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ishenli/investment-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/itallstartedwithaidea/writing-agent",
+      "owner_repo": "itallstartedwithaidea/writing-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/itallstartedwithaidea/writing-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/its403/SpotifyAgent",
+      "owner_repo": "its403/SpotifyAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/its403/SpotifyAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ivebotunac/PrimoAgent",
+      "owner_repo": "ivebotunac/PrimoAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ivebotunac/PrimoAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/janimiyarj/AI-tax-agent",
+      "owner_repo": "janimiyarj/AI-tax-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/janimiyarj/AI-tax-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/janvanwassenhove/MusicAgent",
+      "owner_repo": "janvanwassenhove/MusicAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/janvanwassenhove/MusicAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jason8745/llm-kaggle-agent",
+      "owner_repo": "jason8745/llm-kaggle-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jason8745/llm-kaggle-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/javiramos1/recipe-agent",
+      "owner_repo": "javiramos1/recipe-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/javiramos1/recipe-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jawwad-ali/ai-customer-support-agent",
+      "owner_repo": "jawwad-ali/ai-customer-support-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jawwad-ali/ai-customer-support-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jaychempan/Agent-Skills-Leaderboard",
+      "owner_repo": "jaychempan/Agent-Skills-Leaderboard",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/jaychempan/Agent-Leaderboard",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/JayeshCC/Aiwork",
+      "owner_repo": "JayeshCC/Aiwork",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/JayeshCC/Aiwork",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Jenqyang/Awesome-AI-Agents",
+      "owner_repo": "Jenqyang/Awesome-AI-Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Jenqyang/Awesome-AI-Agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Jeomon/Plan-Agent-with-Meta-Agent",
+      "owner_repo": "Jeomon/Plan-Agent-with-Meta-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Jeomon/Plan-Agent-with-Meta-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Jerick97/mcp-arena",
+      "owner_repo": "Jerick97/mcp-arena",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Jerick97/mcp-arena",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jhzhu89/kubernetes-ai-ops-agent",
+      "owner_repo": "jhzhu89/kubernetes-ai-ops-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jhzhu89/kubernetes-ai-ops-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jnMetaCode/agency-agents-ko",
+      "owner_repo": "jnMetaCode/agency-agents-ko",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jnMetaCode/agency-agents-ko",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jnMetaCode/agency-agents-pt-BR",
+      "owner_repo": "jnMetaCode/agency-agents-pt-BR",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jnMetaCode/agency-agents-pt-BR",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "owner_repo": "jnMetaCode/agency-agents-zh",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Joe-Heffer/trainer",
+      "owner_repo": "Joe-Heffer/trainer",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Joe-Heffer/trainer",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/johan-kallstrom/frozen-lake-experiment",
+      "owner_repo": "johan-kallstrom/frozen-lake-experiment",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/johan-kallstrom/frozen-lake-experiment",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/JohnNguyen070595/Spring-roll-AI-agent",
+      "owner_repo": "JohnNguyen070595/Spring-roll-AI-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/JohnNguyen070595/Spring-roll-AI-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/joonspk-research/genagents",
+      "owner_repo": "joonspk-research/genagents",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/StanfordHCI/genagents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/JoshPhDemo/Robotics-Agent-Suite",
+      "owner_repo": "JoshPhDemo/Robotics-Agent-Suite",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/JoshuaLevi/DemoSolar",
+      "owner_repo": "JoshuaLevi/DemoSolar",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/JoshuaLevi/DemoSolar",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jtwirly/smarthomeagent",
+      "owner_repo": "jtwirly/smarthomeagent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jtwirly/smarthomeagent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/juliusz-cwiakalski/agentic-delivery-os",
+      "owner_repo": "juliusz-cwiakalski/agentic-delivery-os",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/juliusz-cwiakalski/agentic-delivery-os",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/JunyIIIChen/working_schedule",
+      "owner_repo": "JunyIIIChen/working_schedule",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/JunyIIIChen/working_schedule",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/jwojci/budget-agent",
+      "owner_repo": "jwojci/budget-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/jwojci/budget-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kabir12345/Agent-Experiments",
+      "owner_repo": "kabir12345/Agent-Experiments",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kabir12345/Agent-Experiments",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Kaos599/PropertyLoop",
+      "owner_repo": "Kaos599/PropertyLoop",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Kaos599/PropertyLoop",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/karpathy/autoresearch",
+      "owner_repo": "karpathy/autoresearch",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/karpathy/autoresearch",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kartikmahajan5688/ai-mental-health-assistant",
+      "owner_repo": "kartikmahajan5688/ai-mental-health-assistant",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kartikmahajan5688/ai-mental-health-assistant",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KatherLab/LLM-Scheduler",
+      "owner_repo": "KatherLab/LLM-Scheduler",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/KatherLab/LLM-Scheduler",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kaungkhantjc/pay-id-ai-agent",
+      "owner_repo": "kaungkhantjc/pay-id-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kaungkhantjc/pay-id-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kedar-patil-engineer/ai_red_team_range",
+      "owner_repo": "kedar-patil-engineer/ai_red_team_range",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kedar-patil-engineer/ai_red_team_range",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KeepALifeUS/autonomous-agents",
+      "owner_repo": "KeepALifeUS/autonomous-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/KeepALifeUS/autonomous-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Keerthivasan-Venkitajalam/Call-Automation",
+      "owner_repo": "Keerthivasan-Venkitajalam/Call-Automation",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Keerthivasan-Venkitajalam/Call-Automation",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KhaledYaish0/agentic-email-agent",
+      "owner_repo": "KhaledYaish0/agentic-email-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/KhaledYaish0/agentic-email-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KhalilMrini/Agent-Testing-Agent",
+      "owner_repo": "KhalilMrini/Agent-Testing-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/KhalilMrini/Agent-Testing-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KhushalKarim/flood-forecasting-agent",
+      "owner_repo": "KhushalKarim/flood-forecasting-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/KhushalKarim/flood-forecasting-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kingabzpro/Multi-Agent-Research-Assistant",
+      "owner_repo": "kingabzpro/Multi-Agent-Research-Assistant",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kingabzpro/Multi-Agent-Research-Assistant",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Klaudiusz321/social-media-agents",
+      "owner_repo": "Klaudiusz321/social-media-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Klaudiusz321/social-media-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kodustech/awesome-agent-skills",
+      "owner_repo": "kodustech/awesome-agent-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kodustech/awesome-agent-skills",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kooperchap/zhiwei-ecommerce-cs-agent",
+      "owner_repo": "kooperchap/zhiwei-ecommerce-cs-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kooperchap/zhiwei-ecommerce-cs-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kota-kawa/Scheduler-Agent",
+      "owner_repo": "kota-kawa/Scheduler-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kota-kawa/Scheduler-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KwaiVGI/LivePortrait",
+      "owner_repo": "KwaiVGI/LivePortrait",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/KlingAIResearch/LivePortrait",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/KyaniteLabs/mcp-video",
+      "owner_repo": "KyaniteLabs/mcp-video",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/KyaniteLabs/mcp-video",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kyegomez/SIMA",
+      "owner_repo": "kyegomez/SIMA",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kyegomez/SIMA",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/kyegomez/swarms",
+      "owner_repo": "kyegomez/swarms",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/kyegomez/swarms",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Lakshmipavithrayemireddy/sustainable-farming-ai",
+      "owner_repo": "Lakshmipavithrayemireddy/sustainable-farming-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Lakshmipavithrayemireddy/sustainable-farming-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langchain-ai/agentevals",
+      "owner_repo": "langchain-ai/agentevals",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langchain-ai/agentevals",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langchain-ai/langchain",
+      "owner_repo": "langchain-ai/langchain",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langchain-ai/langchain",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langchain-ai/langgraph",
+      "owner_repo": "langchain-ai/langgraph",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langchain-ai/langgraph",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langchain-ai/open-swe",
+      "owner_repo": "langchain-ai/open-swe",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langchain-ai/open-swe",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langchain-ai/social-media-agent",
+      "owner_repo": "langchain-ai/social-media-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langchain-ai/social-media-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langflow-org/langflow",
+      "owner_repo": "langflow-org/langflow",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langgenius/dify",
+      "owner_repo": "langgenius/dify",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langgenius/dify",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/langwatch/cooking-agent",
+      "owner_repo": "langwatch/cooking-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/langwatch/cooking-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/lastmile-ai/mcp-agent",
+      "owner_repo": "lastmile-ai/mcp-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/lastmile-ai/mcp-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/laszukdawid/terminal-agent",
+      "owner_repo": "laszukdawid/terminal-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/laszukdawid/terminal-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/learningwithmachines/planning-agent",
+      "owner_repo": "learningwithmachines/planning-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/learningwithmachines/planning-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LeeWu-Agents/ai-onboarding-agent",
+      "owner_repo": "LeeWu-Agents/ai-onboarding-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/LeeWu-Agents/ai-onboarding-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/leng-2024/agent-with-mcp",
+      "owner_repo": "leng-2024/agent-with-mcp",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/leng-2024/agent-with-mcp",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/leon-ai/leon",
+      "owner_repo": "leon-ai/leon",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/leon-ai/leon",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/letta-ai/agent-file",
+      "owner_repo": "letta-ai/agent-file",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/letta-ai/agent-file",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/letta-ai/letta",
+      "owner_repo": "letta-ai/letta",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/letta-ai/letta",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
+      "owner_repo": "LGDiMaggio/predictive-maintenance-mcp",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/lightlifedev/Meeting-Room-Booking-AI-Agent",
+      "owner_repo": "lightlifedev/Meeting-Room-Booking-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/lightlifedev/Meeting-Room-Booking-AI-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LiteLLM-Labs/litellm-agent-platform",
+      "owner_repo": "LiteLLM-Labs/litellm-agent-platform",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/LiteLLM-Labs/litellm-agent-platform",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/livekit/agents",
+      "owner_repo": "livekit/agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/livekit/agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LivXue/open-email-agent",
+      "owner_repo": "LivXue/open-email-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/LivXue/open-email-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LlenRotse/ACC-Collab",
+      "owner_repo": "LlenRotse/ACC-Collab",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/LlenRotse/ACC-Collab",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/loglux/SQLAIAgent-Ollama",
+      "owner_repo": "loglux/SQLAIAgent-Ollama",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/loglux/SQLAIAgent-Ollama",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LTIM-Digital-Engineering/PR-Review-Agent",
+      "owner_repo": "LTIM-Digital-Engineering/PR-Review-Agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/lucasboscatti/sales-ai-agent-langgraph",
+      "owner_repo": "lucasboscatti/sales-ai-agent-langgraph",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/lucasboscatti/sales-ai-agent-langgraph",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Lumiwealth/lumibot",
+      "owner_repo": "Lumiwealth/lumibot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Lumiwealth/lumibot",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/LXXXXR/ExpoComm",
+      "owner_repo": "LXXXXR/ExpoComm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/LXXXXR/ExpoComm",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/M4riaLoureiro/ethical-travel-recommender",
+      "owner_repo": "M4riaLoureiro/ethical-travel-recommender",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/M4riaLoureiro/ethical-travel-recommender",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/maangalabs/open-home",
+      "owner_repo": "maangalabs/open-home",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/machina-sports/sports-skills",
+      "owner_repo": "machina-sports/sports-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/machina-sports/sports-skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/manojrajgopal/ai-powered-personal-stylist-and-outfit-recommendation",
+      "owner_repo": "manojrajgopal/ai-powered-personal-stylist-and-outfit-recommendation",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/manojrajgopal/ai-powered-personal-stylist-and-outfit-recommendation",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/manozpdel/AI-blog-writer",
+      "owner_repo": "manozpdel/AI-blog-writer",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/manozpdel/AI-blog-writer",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/marlinprotocol/DeFi-AI-Agent",
+      "owner_repo": "marlinprotocol/DeFi-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/marlinprotocol/DeFi-AI-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/MasirJafri1/Customer-Support-Agent",
+      "owner_repo": "MasirJafri1/Customer-Support-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/MasirJafri1/Customer-Support-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mastra-ai/mastra",
+      "owner_repo": "mastra-ai/mastra",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mastra-ai/mastra",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Max-Lee-explore/agentic-ai-translation-company",
+      "owner_repo": "Max-Lee-explore/agentic-ai-translation-company",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Max-Lee-explore/agentic-ai-translation-company",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mcp-use/mcp-use",
+      "owner_repo": "mcp-use/mcp-use",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mcp-use/mcp-use",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/meabed/pr-commit-ai-agent",
+      "owner_repo": "meabed/pr-commit-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/meabed/pr-commit-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mem0ai/mem0",
+      "owner_repo": "mem0ai/mem0",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mem0ai/mem0",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mgiannopoulos24/AI-Projects",
+      "owner_repo": "mgiannopoulos24/AI-Projects",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mgiannopoulos24/Artificial-Intelligence",
+      "owner_repo": "mgiannopoulos24/Artificial-Intelligence",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mgiannopoulos24/Artificial-Intelligence",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/miami0x/HIM---DeFI-Agent",
+      "owner_repo": "miami0x/HIM---DeFI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/miami0x/HIM---DeFI-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/MiChaelinzo/LogiFlow-AI-Intelligent-Logistics-Management-Platform",
+      "owner_repo": "MiChaelinzo/LogiFlow-AI-Intelligent-Logistics-Management-Platform",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/MiChaelinzo/LogiFlow-AI-Intelligent-Logistics-Management-Platform",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/agent-framework",
+      "owner_repo": "microsoft/agent-framework",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/agent-framework",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/Agent-Framework-Samples",
+      "owner_repo": "microsoft/Agent-Framework-Samples",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/Agent-Framework-Samples",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "owner_repo": "microsoft/agent-governance-toolkit",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/agent-governance-toolkit",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/agentic-factory-hack",
+      "owner_repo": "microsoft/agentic-factory-hack",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/agentic-factory-hack",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/agents",
+      "owner_repo": "microsoft/agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/Agents-for-net",
+      "owner_repo": "microsoft/Agents-for-net",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/Agents-for-net",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/agentsleague",
+      "owner_repo": "microsoft/agentsleague",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/agentsleague",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "owner_repo": "microsoft/ai-agents-for-beginners",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/AI_Agents_Hackathon",
+      "owner_repo": "microsoft/AI_Agents_Hackathon",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/AI_Agents_Hackathon",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/autogen",
+      "owner_repo": "microsoft/autogen",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/autogen",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production",
+      "owner_repo": "microsoft/Building-AI-Agents-From-Zero-To-Production",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/claims-processing-hack",
+      "owner_repo": "microsoft/claims-processing-hack",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/claims-processing-hack",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/customer-service-agent",
+      "owner_repo": "microsoft/customer-service-agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/data-science-agent",
+      "owner_repo": "microsoft/data-science-agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/FinEval",
+      "owner_repo": "microsoft/FinEval",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/HealthAgents",
+      "owner_repo": "microsoft/HealthAgents",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop",
+      "owner_repo": "microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/muzic",
+      "owner_repo": "microsoft/muzic",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/muzic",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/qlib",
+      "owner_repo": "microsoft/qlib",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/qlib",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/rd-agent",
+      "owner_repo": "microsoft/rd-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/rd-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/security-copilot",
+      "owner_repo": "microsoft/security-copilot",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "owner_repo": "microsoft/semantic-kernel",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/semantic-kernel",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/microsoft/sre-agent",
+      "owner_repo": "microsoft/sre-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/microsoft/sre-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mila-iqia/climate-cooperation-competition",
+      "owner_repo": "mila-iqia/climate-cooperation-competition",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mila-iqia/climate-cooperation-competition",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/MinorJerry/WebVoyager",
+      "owner_repo": "MinorJerry/WebVoyager",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/MinorJerry/WebVoyager",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "owner_repo": "Mintplex-Labs/anything-llm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Mintplex-Labs/anything-llm",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Mithoon278/End-To-End-Video-Summarizer-Agentic-AI",
+      "owner_repo": "Mithoon278/End-To-End-Video-Summarizer-Agentic-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Mithoon278/End-To-End-Video-Summarizer-Agentic-AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mjunaidca/appointment-agent",
+      "owner_repo": "mjunaidca/appointment-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mjunaidca/appointment-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mlc-ai/web-llm",
+      "owner_repo": "mlc-ai/web-llm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mlc-ai/web-llm",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mmycin/weather-ai-agent",
+      "owner_repo": "mmycin/weather-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mmycin/weather-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Mobile-Agent-v2/MobileAgent",
+      "owner_repo": "Mobile-Agent-v2/MobileAgent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/modelscope/agentscope",
+      "owner_repo": "modelscope/agentscope",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/agentscope-ai/agentscope",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/modular/max-agentic-cookbook",
+      "owner_repo": "modular/max-agentic-cookbook",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/modular/max-agentic-cookbook",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mohnishmsu962000/legal-research-ai-agent",
+      "owner_repo": "mohnishmsu962000/legal-research-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/mohnishsunil/legal-research-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mongodb-industry-solutions/Leafy-Predictive-Maintenance-Agents",
+      "owner_repo": "mongodb-industry-solutions/Leafy-Predictive-Maintenance-Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mongodb-industry-solutions/Leafy-Predictive-Maintenance-Agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mongodb-industry-solutions/multiagent-predictive-maintenance",
+      "owner_repo": "mongodb-industry-solutions/multiagent-predictive-maintenance",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mongodb-industry-solutions/multiagent-predictive-maintenance",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/MortadhaMannai/Tunisia-AI-Uni-Tour-2026",
+      "owner_repo": "MortadhaMannai/Tunisia-AI-Uni-Tour-2026",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/MortadhaMannai/Tunisia-AI-Uni-Tour-2026-Agentic-AI-Workflows-on-Google-Vertex-AI-Workshops-Series",
+      "owner_repo": "MortadhaMannai/Tunisia-AI-Uni-Tour-2026-Agentic-AI-Workflows-on-Google-Vertex-AI-Workshops-Series",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/MortadhaMannai/Tunisia-AI-Uni-Tour-2026-Agentic-AI-Workflows-on-Google-Vertex-AI-Workshops-Series",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Mosss-OS/webscout",
+      "owner_repo": "Mosss-OS/webscout",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Mosss-OS/webscout",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mossydidar/AI-Fitness-Agent",
+      "owner_repo": "mossydidar/AI-Fitness-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mossydidar/AI-Fitness-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "owner_repo": "msitarzewski/agency-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/msitarzewski/agency-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/mukthanjali-data/sentinels-disaster-ai",
+      "owner_repo": "mukthanjali-data/sentinels-disaster-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/mukthanjali-data/sentinels-disaster-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/murataslan1/ai-agent-benchmark",
+      "owner_repo": "murataslan1/ai-agent-benchmark",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/murataslan1/ai-agent-benchmark",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Naman009/MASala",
+      "owner_repo": "Naman009/MASala",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Naman009/MASala",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "owner_repo": "nanobrowser/nanobrowser",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/nanobrowser/nanobrowser",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/nasa-jpl/rosa",
+      "owner_repo": "nasa-jpl/rosa",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/nasa-jpl/rosa",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/NathanMaine/agentic-evaluation-sandbox",
+      "owner_repo": "NathanMaine/agentic-evaluation-sandbox",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/NathanMaine/agentic-evaluation-sandbox",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Navin1-11-04/Ecoagents",
+      "owner_repo": "Navin1-11-04/Ecoagents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Navin1-11-04/Ecoagents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ncz-os/mnemos",
+      "owner_repo": "ncz-os/mnemos",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ncz-os/mnemos",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/netboxlabs/netbox-agent-compliance",
+      "owner_repo": "netboxlabs/netbox-agent-compliance",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/netboxlabs/netbox-agent-compliance",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Neubird-AI/Neubird",
+      "owner_repo": "Neubird-AI/Neubird",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/neural-maze/philoagents-course",
+      "owner_repo": "neural-maze/philoagents-course",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/neural-maze/philoagents-course",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/newsroom/press-releases",
+      "owner_repo": "newsroom/press-releases",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/newsroom/press-releases",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/nilayjain12/fake-news-agent",
+      "owner_repo": "nilayjain12/fake-news-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/nilayjain12/fake-news-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "owner_repo": "NirDiamant/GenAI_Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/NirDiamant/GenAI_Agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Nishchal-29/route-optimization-system",
+      "owner_repo": "Nishchal-29/route-optimization-system",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Nishchal-29/route-optimization-system",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "owner_repo": "NousResearch/hermes-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/NousResearch/hermes-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/noxgle/term_agent",
+      "owner_repo": "noxgle/term_agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/noxgle/term_agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit",
+      "owner_repo": "NVIDIA/NeMo-Agent-Toolkit",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/nyukat/BIRADS_agent",
+      "owner_repo": "nyukat/BIRADS_agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/oguzhnatly/fleet",
+      "owner_repo": "oguzhnatly/fleet",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/oguzhnatly/fleet",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/oleksandr-g-rock/ai-runner-coach",
+      "owner_repo": "oleksandr-g-rock/ai-runner-coach",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/oleksandr-g-rock/ai-runner-coach",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OneDuckyBoy/Awesome-AI-Agents-HUB-for-CrewAI",
+      "owner_repo": "OneDuckyBoy/Awesome-AI-Agents-HUB-for-CrewAI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OneDuckyBoy/Awesome-AI-Agents-HUB-for-CrewAI",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OoriData/Discord-AI-Agent",
+      "owner_repo": "OoriData/Discord-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OoriData/Discord-AI-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openai/openai-agents-js",
+      "owner_repo": "openai/openai-agents-js",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openai/openai-agents-js",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openai/openai-agents-python",
+      "owner_repo": "openai/openai-agents-python",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openai/openai-agents-python",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openai/openai-cs-agents-demo",
+      "owner_repo": "openai/openai-cs-agents-demo",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openai/openai-cs-agents-demo",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openai/openai-realtime-agents",
+      "owner_repo": "openai/openai-realtime-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openai/openai-realtime-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openai/openai-voice-agent-sdk-sample",
+      "owner_repo": "openai/openai-voice-agent-sdk-sample",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openai/openai-voice-agent-sdk-sample",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openai/swarm",
+      "owner_repo": "openai/swarm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openai/swarm",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "owner_repo": "OpenBB-finance/OpenBB",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OpenBB-finance/OpenBB",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OpenBMB/AgentVerse",
+      "owner_repo": "OpenBMB/AgentVerse",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OpenBMB/AgentVerse",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "owner_repo": "OpenBMB/ChatDev",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OpenBMB/ChatDev",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openclaw/skills",
+      "owner_repo": "openclaw/skills",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/opendedup/data-planning-agent",
+      "owner_repo": "opendedup/data-planning-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/opendedup/data-planning-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OpenEarthLab/EarthLink",
+      "owner_repo": "OpenEarthLab/EarthLink",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OpenEarthLab/EarthLink",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OpenInterpreter/open-interpreter",
+      "owner_repo": "OpenInterpreter/open-interpreter",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/openinterpreter/openinterpreter",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/openonion/email-agent",
+      "owner_repo": "openonion/email-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/openonion/email-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/opentiny/tiny-agent",
+      "owner_repo": "opentiny/tiny-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/opentiny/tiny-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/opsflowsh/agentfleet",
+      "owner_repo": "opsflowsh/agentfleet",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/opsflowsh/agentfleet",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OS-Copilot/OS-Copilot",
+      "owner_repo": "OS-Copilot/OS-Copilot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OS-Copilot/OS-Copilot",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/OSU-NLP-Group/ScienceAgentBench",
+      "owner_repo": "OSU-NLP-Group/ScienceAgentBench",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/OSU-NLP-Group/ScienceAgentBench",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Pairrot-Lore/agent-solarpanels-tutorial",
+      "owner_repo": "Pairrot-Lore/agent-solarpanels-tutorial",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Pairrot-Lore/agent-solarpanels-tutorial",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/panaversity/learn-agentic-ai",
+      "owner_repo": "panaversity/learn-agentic-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/panaversity/learn-agentic-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Paparusi/legal-ai-agent",
+      "owner_repo": "Paparusi/legal-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Paparusi/legal-ai-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Parth-yangandul/Multi-Agent-Supply-Chain-Control-Tower",
+      "owner_repo": "Parth-yangandul/Multi-Agent-Supply-Chain-Control-Tower",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Parth-yangandul/Multi-Agent-Supply-Chain-Control-Tower",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/parthshr370/Email-AI-Agent",
+      "owner_repo": "parthshr370/Email-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/parthshr370/Email-AI-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pguso/email-agent-core",
+      "owner_repo": "pguso/email-agent-core",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pguso/email-agent-core",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/philschmid/ai-agent-benchmark-compendium",
+      "owner_repo": "philschmid/ai-agent-benchmark-compendium",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/philschmid/ai-agent-benchmark-compendium",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pipecat-ai/pipecat",
+      "owner_repo": "pipecat-ai/pipecat",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pipecat-ai/pipecat",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pisces76/translation-agent-UI",
+      "owner_repo": "pisces76/translation-agent-UI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pisces76/translation-agent-UI",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pramod-zillella/Agentic-Rag-Chatbot",
+      "owner_repo": "pramod-zillella/Agentic-Rag-Chatbot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pramod-zillella/Agentic-Rag-Chatbot",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/prasadt1/ai-photography-coach-agents",
+      "owner_repo": "prasadt1/ai-photography-coach-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/prasadt1/ai-photography-coach-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/presenton/presenton",
+      "owner_repo": "presenton/presenton",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/presenton/presenton",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/proflead/how-to-build-ai-agent",
+      "owner_repo": "proflead/how-to-build-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/proflead/how-to-build-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ProjectProRepo/How-to-Build-an-AI-Agent-with-Pydantic-AI",
+      "owner_repo": "ProjectProRepo/How-to-Build-an-AI-Agent-with-Pydantic-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ProjectProRepo/How-to-Build-an-AI-Agent-with-Pydantic-AI",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "owner_repo": "punkpeye/awesome-mcp-servers",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "owner_repo": "pydantic/pydantic-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pydantic/pydantic-ai",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pydantic/pydantic-ai-harness",
+      "owner_repo": "pydantic/pydantic-ai-harness",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pydantic/pydantic-ai-harness",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pydantic/pydantic-ai-temporal-example",
+      "owner_repo": "pydantic/pydantic-ai-temporal-example",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pydantic/pydantic-ai-temporal-example",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/pyr0mind/AI-powered-PDF-agent-project",
+      "owner_repo": "pyr0mind/AI-powered-PDF-agent-project",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/pyr0mind/AI-powered-PDF-agent-project",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Qodo-Gen/pr-agent",
+      "owner_repo": "Qodo-Gen/pr-agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Qredence/agentic-fleet",
+      "owner_repo": "Qredence/agentic-fleet",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Qredence/agentic-fleet",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/randall-liao/subtitle-agent",
+      "owner_repo": "randall-liao/subtitle-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/randall-liao/subtitle-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rasbt/mini-coding-agent",
+      "owner_repo": "rasbt/mini-coding-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/rasbt/mini-coding-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Ratnesh-181998/weather-mcp-a2a",
+      "owner_repo": "Ratnesh-181998/weather-mcp-a2a",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Ratnesh-181998/weather-mcp-a2a",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/raulvallejo/make-agent-firewall",
+      "owner_repo": "raulvallejo/make-agent-firewall",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/raulvallejo/make-agent-firewall",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Reason-Wang/ToolGen",
+      "owner_repo": "Reason-Wang/ToolGen",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Reason-Wang/ToolGen",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/redis-developer/ai-news-agent-lang-graph-js-redis-workshop",
+      "owner_repo": "redis-developer/ai-news-agent-lang-graph-js-redis-workshop",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/redis-developer/ai-news-agent-lang-graph-js-redis-workshop",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/refly-ai/refly",
+      "owner_repo": "refly-ai/refly",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/refly-ai/refly",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rehabitus/ai-coaching-agent-skills",
+      "owner_repo": "rehabitus/ai-coaching-agent-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/rehabitus/ai-coaching-agent-skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/reneespinosa/Weather-AI-Agent",
+      "owner_repo": "reneespinosa/Weather-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/reneespinosa/Weather-AI-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Replicable-MARL/MARLlib",
+      "owner_repo": "Replicable-MARL/MARLlib",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Replicable-MARL/MARLlib",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ResearAI/Awesome-AI-Scientist",
+      "owner_repo": "ResearAI/Awesome-AI-Scientist",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ResearAI/Awesome-AI-Scientist",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/reworkd/AgentGPT",
+      "owner_repo": "reworkd/AgentGPT",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/reworkd/AgentGPT",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rinadelph/Agent-MCP",
+      "owner_repo": "rinadelph/Agent-MCP",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/rinadelph/Agent-MCP",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rkvalandas/browser_agent",
+      "owner_repo": "rkvalandas/browser_agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/rkvalandas/browser_agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ro-anderson/multi-agent-rag-customer-support",
+      "owner_repo": "ro-anderson/multi-agent-rag-customer-support",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ro-anderson/multi-agent-rag-customer-support",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/roblox/gwen-music",
+      "owner_repo": "roblox/gwen-music",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/robotics-agent/robotics-agent-hub",
+      "owner_repo": "robotics-agent/robotics-agent-hub",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Rootly-AI-Labs/EventOrOutage",
+      "owner_repo": "Rootly-AI-Labs/EventOrOutage",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/Rootly-AI-Labs/event-or-outage",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rotemweiss57/gpt-newspaper",
+      "owner_repo": "rotemweiss57/gpt-newspaper",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/rotemweiss57/gpt-newspaper",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rucnyz/RedAgent",
+      "owner_repo": "rucnyz/RedAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/rucnyz/LeakAgent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/rudrakshkarpe/gcp-agentic-day-hack",
+      "owner_repo": "rudrakshkarpe/gcp-agentic-day-hack",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/rudrakshkarpe/gcp-agentic-day-hack",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/run-llama/llama_index",
+      "owner_repo": "run-llama/llama_index",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/run-llama/llama_index",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Rushabh-Runwal/Learning-AI-Agents",
+      "owner_repo": "Rushabh-Runwal/Learning-AI-Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Rushabh-Runwal/Learning-AI-Agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/saadii5074/N8N-WhatsApp-automation",
+      "owner_repo": "saadii5074/N8N-WhatsApp-automation",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/saadii5074/N8N-WhatsApp-automation",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sadanand-singh/news-agent",
+      "owner_repo": "sadanand-singh/news-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sadanand-singh/news-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sahiladit/sustainable-automation-ai-agent",
+      "owner_repo": "sahiladit/sustainable-automation-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sahiladit/sustainable-automation-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sainathmitalakar/ai-devops-agent",
+      "owner_repo": "sainathmitalakar/ai-devops-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sainathmitalakar/ai-devops-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SakanaAI/AI-Scientist",
+      "owner_repo": "SakanaAI/AI-Scientist",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SakanaAI/AI-Scientist",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SakanaAI/CycleQD",
+      "owner_repo": "SakanaAI/CycleQD",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SakanaAI/CycleQD",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SalesforceAIResearch/SlackAgents",
+      "owner_repo": "SalesforceAIResearch/SlackAgents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SalesforceAIResearch/SlackAgents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SamJoeSilvano/Insurance-Agentic-AI",
+      "owner_repo": "SamJoeSilvano/Insurance-Agentic-AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SamJoeSilvano/Insurance-Agentic-AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+      "owner_repo": "SamuelSchmidgall/AgentLaboratory",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "owner_repo": "SamurAIGPT/Generative-Media-Skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/samwit/smolagents_examples",
+      "owner_repo": "samwit/smolagents_examples",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/samwit/smolagents_examples",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sanikasalunke/AI-Customer-Support-Agent",
+      "owner_repo": "sanikasalunke/AI-Customer-Support-Agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SankaiAI/ats-optimized-resume-agent-skill",
+      "owner_repo": "SankaiAI/ats-optimized-resume-agent-skill",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SankaiAI/ats-optimized-resume-agent-skill",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SAP-samples/teched2025-AI160",
+      "owner_repo": "SAP-samples/teched2025-AI160",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SAP-samples/teched2025-AI160",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SAP-samples/teched2025-AI165",
+      "owner_repo": "SAP-samples/teched2025-AI165",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SAP-samples/teched2025-AI165",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sap156/AI-Claims-Agent-LangGraph",
+      "owner_repo": "sap156/AI-Claims-Agent-LangGraph",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sap156/AI-Claims-Agent-LangGraph",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/saroshfarhan/AI_Agent",
+      "owner_repo": "saroshfarhan/AI_Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/saroshfarhan/AI_Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/satyanshu404/AI-carbon-footprint-manager",
+      "owner_repo": "satyanshu404/AI-carbon-footprint-manager",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/satyanshu404/AI-carbon-footprint-manager",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SavTechSavvy/SmartWeather-agent-ai",
+      "owner_repo": "SavTechSavvy/SmartWeather-agent-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SavTechSavvy/SmartWeather-agent-ai",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent",
+      "owner_repo": "sayeduzzaman-bracu/BusBuzz-AI-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/schwichtgit/ai-resume",
+      "owner_repo": "schwichtgit/ai-resume",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/schwichtgit/ai-resume",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SciPhi-AI/agent-search",
+      "owner_repo": "SciPhi-AI/agent-search",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SciPhi-AI/agent-search",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ScrapingAgent/web-scraping-agent",
+      "owner_repo": "ScrapingAgent/web-scraping-agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/second-state/translation-agent",
+      "owner_repo": "second-state/translation-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/second-state/translation-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Selma-Bajramovic/ai-agent-flood-prediction",
+      "owner_repo": "Selma-Bajramovic/ai-agent-flood-prediction",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Selma-Bajramovic/ai-agent-flood-prediction",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/serpapi/travel-planning-agent",
+      "owner_repo": "serpapi/travel-planning-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/serpapi/travel-planning-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sgandotra1/censys-summarizer",
+      "owner_repo": "sgandotra1/censys-summarizer",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sgandotra1/censys-summarizer",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/shahbaz-dev1/whatsapp-ai-agent",
+      "owner_repo": "shahbaz-dev1/whatsapp-ai-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/shahbaz-dev1/whatsapp-ai-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Shantanu221/Fitness-advice-AI-agent-web-app",
+      "owner_repo": "Shantanu221/Fitness-advice-AI-agent-web-app",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Shantanu221/Fitness-advice-AI-agent-web-app",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ShengranHu/ADAS",
+      "owner_repo": "ShengranHu/ADAS",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ShengranHu/ADAS",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ShishirPatil/gorilla",
+      "owner_repo": "ShishirPatil/gorilla",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ShishirPatil/gorilla",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Shivam-Shukl/Amazon-E-commerce-Agent",
+      "owner_repo": "Shivam-Shukl/Amazon-E-commerce-Agent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Shivam-Shukl/Amazon-E-commerce-Agent-RAG-Based-AI-Product-Recommender",
+      "owner_repo": "Shivam-Shukl/Amazon-E-commerce-Agent-RAG-Based-AI-Product-Recommender",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Shivam-Shukl/Amazon-E-commerce-Agent-RAG-Based-AI-Product-Recommender",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "owner_repo": "Shubhamsaboo/awesome-llm-apps",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "owner_repo": "Significant-Gravitas/AutoGPT",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/simealdana/ai-automation-jsons",
+      "owner_repo": "simealdana/ai-automation-jsons",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/simealdana/ai-automation-jsons",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/simular-ai/agent-s",
+      "owner_repo": "simular-ai/agent-s",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/simular-ai/agent-s",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sinaptik-ai/pandas-ai",
+      "owner_repo": "sinaptik-ai/pandas-ai",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sinaptik-ai/pandas-ai",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Skyvern-AI/skyvern",
+      "owner_repo": "Skyvern-AI/skyvern",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Skyvern-AI/skyvern",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SlideSpeak/skills",
+      "owner_repo": "SlideSpeak/skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SlideSpeak/skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sneurgaonkar/sales-ai-agents",
+      "owner_repo": "sneurgaonkar/sales-ai-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sneurgaonkar/sales-ai-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
+      "owner_repo": "souvikmajumder26/Multi-Agent-Medical-Assistant",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sparkup/rag-assisted-chess-agent",
+      "owner_repo": "sparkup/rag-assisted-chess-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sparkup/rag-assisted-chess-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/spencermarx/open-code-review",
+      "owner_repo": "spencermarx/open-code-review",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/spencermarx/open-code-review",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Srinivasulu2003/langchain",
+      "owner_repo": "Srinivasulu2003/langchain",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Srinivasulu2003/langchain",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sscodeai/agency-agents-ja",
+      "owner_repo": "sscodeai/agency-agents-ja",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sscodeai/agency-agents-ja",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/stablyai/agent-slack",
+      "owner_repo": "stablyai/agent-slack",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/stablyai/agent-slack",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/stackblitz/bolt.new",
+      "owner_repo": "stackblitz/bolt.new",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/stackblitz/bolt.new",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/stanford-futuredata/FinAgent",
+      "owner_repo": "stanford-futuredata/FinAgent",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Stanford-ILIAD/PantheonRL",
+      "owner_repo": "Stanford-ILIAD/PantheonRL",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Stanford-ILIAD/PantheonRL",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/stephenc222/example-pydantic-ai-multi-modal",
+      "owner_repo": "stephenc222/example-pydantic-ai-multi-modal",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/stephenc222/example-pydantic-ai-multi-modal",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/strands-agents/tools",
+      "owner_repo": "strands-agents/tools",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/strands-agents/tools",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/StudentTraineeCenter/edu-agent",
+      "owner_repo": "StudentTraineeCenter/edu-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/StudentTraineeCenter/edu-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/subtitlesdog/Subtitles.Translate.Agent",
+      "owner_repo": "subtitlesdog/Subtitles.Translate.Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/subtitlesdog/Subtitles.Translate.Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Sugi-Hcr/cancer-research-agent-2025",
+      "owner_repo": "Sugi-Hcr/cancer-research-agent-2025",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Sugi-Hcr/cancer-research-agent-2025",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/sujitnoronha/Disaster_Chat_Agent",
+      "owner_repo": "sujitnoronha/Disaster_Chat_Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/sujitnoronha/Disaster_Chat_Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/superwise-ai/Legal_Document_Analyzer_AI",
+      "owner_repo": "superwise-ai/Legal_Document_Analyzer_AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/superwise-ai/Legal_Document_Analyzer_AI",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/superwise-ai/Manufacturing_AI",
+      "owner_repo": "superwise-ai/Manufacturing_AI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/superwise-ai/Manufacturing_AI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/swataswayam-14/FarmGenie",
+      "owner_repo": "swataswayam-14/FarmGenie",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/swataswayam-14/FarmGenie",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "owner_repo": "SWE-agent/mini-swe-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SWE-agent/minimal-agent-tutorial",
+      "owner_repo": "SWE-agent/minimal-agent-tutorial",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SWE-agent/minimal-agent-tutorial",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SWE-agent/SWE-agent",
+      "owner_repo": "SWE-agent/SWE-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/SWE-agent/SWE-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/SWE-agent/SWE-bench",
+      "owner_repo": "SWE-agent/SWE-bench",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/t41372/Open-LLM-VTuber",
+      "owner_repo": "t41372/Open-LLM-VTuber",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/t41372/Open-LLM-VTuber-Lab",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/takahirom/arbigent",
+      "owner_repo": "takahirom/arbigent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/takahirom/arbigent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/tanishra/Langchain",
+      "owner_repo": "tanishra/Langchain",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/tanishra/Langchain",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "owner_repo": "TauricResearch/TradingAgents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/TauricResearch/TradingAgents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/tayyabmughal676/Construction_AI_Agent",
+      "owner_repo": "tayyabmughal676/Construction_AI_Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/tayyabmughal676/Construction_AI_Agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/tellmefrankie/ai-investment-skills",
+      "owner_repo": "tellmefrankie/ai-investment-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/tellmefrankie/ai-investment-skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/temporal-community/openai-agents-demos",
+      "owner_repo": "temporal-community/openai-agents-demos",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/temporal-community/openai-agents-demos",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "owner_repo": "The-PR-Agent/pr-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/The-PR-Agent/pr-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/The-Swarm-Corporation/NewsAgent",
+      "owner_repo": "The-Swarm-Corporation/NewsAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/The-Swarm-Corporation/NewsAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Themis-Legal/themis",
+      "owner_repo": "Themis-Legal/themis",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/THUDM/AgentBench",
+      "owner_repo": "THUDM/AgentBench",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/THUDM/AgentBench",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/THUDM/AutoGLM",
+      "owner_repo": "THUDM/AutoGLM",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/tml-epfl/os-harm",
+      "owner_repo": "tml-epfl/os-harm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/tml-epfl/os-harm",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Tomisin127/LogisticsRoute",
+      "owner_repo": "Tomisin127/LogisticsRoute",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Tomisin127/LogisticsRoute",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/topoteretes/cognee",
+      "owner_repo": "topoteretes/cognee",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/topoteretes/cognee",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "owner_repo": "Tracer-Cloud/opensre",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Tracer-Cloud/opensre",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/TradingGoose/TradingGoose.github.io",
+      "owner_repo": "TradingGoose/TradingGoose.github.io",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/TradingGoose/TradingGoose.github.io",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "owner_repo": "triggerdotdev/trigger.dev",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/triggerdotdev/trigger.dev",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/trujivan/Personalized-Real-Estate-Agent-AI",
+      "owner_repo": "trujivan/Personalized-Real-Estate-Agent-AI",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/trycua/cua",
+      "owner_repo": "trycua/cua",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/trycua/cua",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/tryonlabs/opentryon",
+      "owner_repo": "tryonlabs/opentryon",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/tryonlabs/opentryon",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/UMass-Foundation-Model/COMBO",
+      "owner_repo": "UMass-Foundation-Model/COMBO",
+      "http_status": 200,
+      "active": true,
+      "redirected": true,
+      "final_url": "https://github.com/UMass-Embodied-AGI/COMBO",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/unionai-oss/ai-agent-template",
+      "owner_repo": "unionai-oss/ai-agent-template",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/unionai-oss/ai-agent-template",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Unity-Technologies/ml-agents",
+      "owner_repo": "Unity-Technologies/ml-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Unity-Technologies/ml-agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/univa-agent/univa",
+      "owner_repo": "univa-agent/univa",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/univa-agent/univa",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/untra/operator",
+      "owner_repo": "untra/operator",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/untra/operator",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vaibhavarora102/HRRecruitingAgent",
+      "owner_repo": "vaibhavarora102/HRRecruitingAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vaibhavarora102/HRRecruitingAgent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/varunk130/ai-legal-team-agent",
+      "owner_repo": "varunk130/ai-legal-team-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/varunk130/ai-legal-team-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "owner_repo": "vercel-labs/agent-browser",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vercel-labs/agent-browser",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vercel-labs/ai-sdk-slackbot",
+      "owner_repo": "vercel-labs/ai-sdk-slackbot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vercel-labs/ai-sdk-slackbot",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vercel/v0",
+      "owner_repo": "vercel/v0",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/VersusControl/versus-incident",
+      "owner_repo": "VersusControl/versus-incident",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/VersusControl/versus-incident",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/victorykop/blockchain-ai-agent-project",
+      "owner_repo": "victorykop/blockchain-ai-agent-project",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/victorykop/blockchain-ai-agent-project",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/video-db/Director",
+      "owner_repo": "video-db/Director",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/video-db/Director",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/virattt/financial-agent",
+      "owner_repo": "virattt/financial-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/virattt/financial-agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Vivek17020/Ai-Driven-Wildfire-Detection-and-response-systemon",
+      "owner_repo": "Vivek17020/Ai-Driven-Wildfire-Detection-and-response-systemon",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Vivek17020/Ai-Driven-Wildfire-Detection-and-response-systemon",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vizra-ai/claude-code-agents",
+      "owner_repo": "vizra-ai/claude-code-agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vizra-ai/claude-code-agents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "owner_repo": "VoltAgent/awesome-agent-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "owner_repo": "VoltAgent/awesome-claude-code-subagents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Vrajesh-Sharma/Blog-Agent",
+      "owner_repo": "Vrajesh-Sharma/Blog-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Vrajesh-Sharma/Blog-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vstorm-co/pydantic-ai-examples",
+      "owner_repo": "vstorm-co/pydantic-ai-examples",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vstorm-co/pydantic-ai-examples",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vstorm-co/pydantic-ai-todo",
+      "owner_repo": "vstorm-co/pydantic-ai-todo",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vstorm-co/pydantic-ai-todo",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vstorm-co/pydantic-deepagents",
+      "owner_repo": "vstorm-co/pydantic-deepagents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vstorm-co/pydantic-deepagents",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/vxcontrol/pentagi",
+      "owner_repo": "vxcontrol/pentagi",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/vxcontrol/pentagi",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/wassengerhq/whatsapp-chatgpt-bot",
+      "owner_repo": "wassengerhq/whatsapp-chatgpt-bot",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/wassengerhq/whatsapp-chatgpt-bot",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/web-arena-x/visualwebarena",
+      "owner_repo": "web-arena-x/visualwebarena",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/web-arena-x/visualwebarena",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/webagent-cloud/webagent",
+      "owner_repo": "webagent-cloud/webagent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/webagent-cloud/webagent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/webup/langgraph-up-react",
+      "owner_repo": "webup/langgraph-up-react",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/webup/langgraph-up-react",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/WecoAI/aideml",
+      "owner_repo": "WecoAI/aideml",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/WecoAI/aideml",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/widingmarcus-cyber/discord-agent-swarm",
+      "owner_repo": "widingmarcus-cyber/discord-agent-swarm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/widingmarcus-cyber/discord-agent-swarm",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/winni18/MC-DML",
+      "owner_repo": "winni18/MC-DML",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/winni18/MC-DML",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/wkh923/m3pc",
+      "owner_repo": "wkh923/m3pc",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/wkh923/m3pc",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/wrxck/AgentCraft",
+      "owner_repo": "wrxck/AgentCraft",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/wrxck/AgentCraft",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/wsargent/recipellm",
+      "owner_repo": "wsargent/recipellm",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/wsargent/recipellm",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/wzf2000/MACRec",
+      "owner_repo": "wzf2000/MACRec",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/wzf2000/MACRec",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/xalgord/xalgorix",
+      "owner_repo": "xalgord/xalgorix",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/xalgord/xalgorix",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Xenaquas/Ecommerce-Agent",
+      "owner_repo": "Xenaquas/Ecommerce-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Xenaquas/Ecommerce-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/xlang-ai/AgentTrek",
+      "owner_repo": "xlang-ai/AgentTrek",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/xlang-ai/AgentTrek",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/xyflow/parlant",
+      "owner_repo": "xyflow/parlant",
+      "http_status": 404,
+      "active": false,
+      "redirected": false,
+      "final_url": null,
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Yash-Kavaiya/Devops-AI-Agents",
+      "owner_repo": "Yash-Kavaiya/Devops-AI-Agents",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Yash-Kavaiya/Devops-AI-Agents",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/yizucodes/interview-agent",
+      "owner_repo": "yizucodes/interview-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/yizucodes/interview-agent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/youdotcom-oss/agent-skills",
+      "owner_repo": "youdotcom-oss/agent-skills",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/youdotcom-oss/agent-skills",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent",
+      "owner_repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/zen-apps/ai-fitness-planner",
+      "owner_repo": "zen-apps/ai-fitness-planner",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/zen-apps/ai-fitness-planner",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/Zie619/n8n-workflows",
+      "owner_repo": "Zie619/n8n-workflows",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/Zie619/n8n-workflows",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/zimingyou01/DatawiseAgent",
+      "owner_repo": "zimingyou01/DatawiseAgent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/zimingyou01/DatawiseAgent",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/ZJU-REAL/ClawGUI",
+      "owner_repo": "ZJU-REAL/ClawGUI",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/ZJU-REAL/ClawGUI",
+      "in_v1": false,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/zju-vipa/Odyssey",
+      "owner_repo": "zju-vipa/Odyssey",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/zju-vipa/Odyssey",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/zubair-trabzada/ai-legal-claude",
+      "owner_repo": "zubair-trabzada/ai-legal-claude",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/zubair-trabzada/ai-legal-claude",
+      "in_v1": true,
+      "in_v2": true
+    },
+    {
+      "url": "https://github.com/zychenpeng/openclaw-delivery-agent",
+      "owner_repo": "zychenpeng/openclaw-delivery-agent",
+      "http_status": 200,
+      "active": true,
+      "redirected": false,
+      "final_url": "https://github.com/zychenpeng/openclaw-delivery-agent",
+      "in_v1": false,
+      "in_v2": true
+    }
+  ]
+}
