@@ -1,4 +1,4 @@
-# Trust Me, I'm an Agent — Measuring the Security Exposure of Open-Source LLM Agents
+# Trust Me, I'm an Agent: Measuring the Security Exposure of Open-Source LLM Agents
 
 Companion data for the security measurement study. Contains two snapshots of the curated agent inventory used to bound the study population.
 
