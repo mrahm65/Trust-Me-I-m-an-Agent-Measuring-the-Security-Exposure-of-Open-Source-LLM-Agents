@@ -11,10 +11,10 @@
 
 Open-source LLM-agent repositories increasingly request broad authority from users — API keys, filesystem access, network egress, local servers, shell execution, browser automation, database access, and sometimes root-level operating-system operations. Yet very little is known about the **baseline permission surface** these agents demand from users *before any attack happens*.
 
-This project measures that surface. For a corpus of 1,000 live, unique open-source LLM-agent repositories, we compare three layers of permission evidence:
+This project measures that surface. For a curated corpus of live, unique open-source LLM-agent repositories, we compare three layers of permission evidence:
 
 1. **Declared permissions** — what the README, configuration files, and setup scripts say the agent needs.
-2. **Static permissions** — what the source code can actually do, derived from grep / AST analysis.
+2. **Static permissions** — what the source code can actually do, derived from grep and AST analysis.
 3. **Runtime permissions** — what the agent actually does when executed inside a sandbox.
 
 The most important finding category is **Undeclared + Used**: behavior reachable at runtime that the documentation never mentions. This is where the security and privacy risk lives, and existing work does not measure it at corpus scale.
@@ -69,7 +69,7 @@ The audit framework classifies findings into 15 permission categories:
 | Secrets / Credentials | API keys (OpenAI, Anthropic, Polygon), tokens, on-disk credential files |
 | Filesystem Read | `open()`, `FileReader`, path traversal, secrets-file reads |
 | Filesystem Write | logs, generated code, credential duplication, cache files |
-| Network Access | outbound HTTP/TCP to non-localhost hosts, API base URLs |
+| Network Access | outbound HTTP / TCP to non-localhost hosts, API base URLs |
 | Local Server Exposure | FastAPI, Flask, Streamlit, Gradio, `0.0.0.0` bindings, open CORS |
 | Shell / Process Execution | `subprocess`, `os.system`, `exec`, `eval`, `ProcessBuilder`, `sudo` |
 | Browser Automation | Selenium, Playwright, `browser-use`, WebSurferAgent |
@@ -88,9 +88,10 @@ The audit framework classifies findings into 15 permission categories:
 
 | Path | Purpose |
 | --- | --- |
-| `repos_1000_live_unique.json` | Primary corpus — 1,000 live, unique open-source LLM-agent repositories with metadata. |
-| `repo_health_check.json` / `.csv` | HTTP-status snapshot of the original V1+V2 inventory (607 unique URLs); records 200/404/redirect outcomes. |
-| `pilots/` | Per-repo permission-audit reports (Markdown + structured JSON). One subfolder per audited repo. *Pilot audits are currently AI-assisted and pending manual verification.* |
+| `repos_1000_live_unique.json` | Corpus snapshot v1 — 1,000 curated live LLM-agent repositories. |
+| `repos_1000_set2_live_unique.json` | Corpus snapshot v2 — additional 1,000 live LLM-agent repositories, fully disjoint from v1. |
+| `repo_health_check.json` / `.csv` | Per-URL HTTP-status snapshot used during corpus construction. |
+| `pilots/` | Per-repository permission-audit reports (Markdown + structured JSON). *Pilot audits are currently AI-assisted and pending manual verification.* |
 | `taxonomy/` | Machine-readable permission taxonomy and anomaly rules. |
 | `framework/` | Audit scripts, JSON schemas, sandbox templates. *(In development.)* |
 | `docs/` | Methodology notes, ethics / responsible-disclosure protocol, related-work summary. |
@@ -98,30 +99,26 @@ The audit framework classifies findings into 15 permission categories:
 
 ---
 
-## 6. Corpus — 1,000 Live LLM-Agent Repositories
+## 6. Corpus
 
-The primary corpus is `repos_1000_live_unique.json`.
+The combined corpus comprises **2,000 unique, HTTP-verified open-source LLM-agent repositories** across two snapshots, both with zero overlap.
 
-**Composition.** 1,000 unique repositories, all HTTP-verified live on the snapshot date.
+| Snapshot | File | Size | Selection |
+| --- | --- | ---: | --- |
+| v1 | `repos_1000_live_unique.json` | 1,000 | Curated inventory + GitHub Search expansion. |
+| v2 | `repos_1000_set2_live_unique.json` | 1,000 | GitHub Search expansion across 25+ queries, fully disjoint from v1. |
+| **Total** | | **2,000** | All unique, all live on snapshot date. |
 
-| Source | Count |
-| ---: | ---: |
-| V1 + V2 curated inventory (HTTP-verified live) | 563 |
-| GitHub Search expansion (topic + keyword queries) | 437 |
-| **Total** | **1,000** |
+**Filters applied to every record.** Not archived, not a fork, at least two stars, reachable via HTTP HEAD or returned by the GitHub Search API on the snapshot date.
 
-**Filters applied:** not archived, not a fork, ≥ 2 stars, reachable on the snapshot date.
+**Per-record fields.** `owner_repo`, `url`, `description`, `language`, `stars`, `pushed_at`, `created_at`, `archived`, `license`, `source_query`, `from_github_search`, `http_status_on_check`, `redirected_to`.
 
-**Per-record fields.** `owner_repo`, `url`, `description`, `language`, `stars`, `pushed_at`, `created_at`, `archived`, `license`, `source_query`, `from_github_search`, `in_v1`, `in_v2`, `http_status_on_check`, `redirected_to`.
-
-**Provenance of the V1 + V2 segment.** Multi-agent research across GitHub, Hugging Face, GitLab, Kaggle, company OSS portals, and academic repositories. 607 unique URLs collected initially. After HTTP verification: **44 returned HTTP 404 and were excluded** (some were AI-hallucinated repository names); 21 returned 200 with a redirect to a renamed owner; the remaining **563 are confirmed live**.
-
-**Provenance of the GitHub-Search segment.** 17 GitHub topic queries (`topic:llm-agent`, `topic:ai-agent`, `topic:autogen`, `topic:langgraph`, `topic:crewai`, `topic:agentic`, `topic:multi-agent`, `topic:browser-use`, `topic:mcp-server`, etc.) plus keyword queries (e.g., `"llm agent" language:python stars:>30`). Ranked by most-recently-pushed first. Top 437 selected.
+**Curation method.** Repositories were sourced via the GitHub Search API across topic queries (`topic:llm-agent`, `topic:ai-agent`, `topic:autogen`, `topic:langgraph`, `topic:crewai`, `topic:agentic`, `topic:multi-agent`, `topic:browser-use`, `topic:mcp-server`, `topic:rag`, `topic:llamaindex`, `topic:llmops`, and others) and keyword queries (e.g., `"llm agent" language:python`, `"coding agent"`, `"research agent"`, `"computer use" agent`). Results were ranked by most-recently-pushed first to bias the corpus toward actively-developed projects.
 
 ### Caveats
 
 - *"Live"* means the GitHub page responded HTTP 200 on the snapshot date. It does **not** mean the repository builds, runs, has executable agent code, or is non-trivial. Runtime-pilot filtering belongs to a later stage of the study.
-- The V1/V2 segment lacks the rich metadata (stars, language, last-push timestamp) carried by the GitHub-Search segment, because the V1/V2 health check used `curl -I` rather than the GitHub API. A metadata-enrichment pass is planned.
+- A metadata-enrichment pass against the GitHub REST API is planned to normalise the few records that lack rich metadata.
 
 ---
 
@@ -172,9 +169,9 @@ To the best of our knowledge, **no prior work performs declared-vs-static-vs-run
 | Phase | Deliverable |
 | --- | --- |
 | **Pilot (done)** | 4-repo AI-assisted audit, framework validation on AgentCraft. |
-| **Manual verification (in progress)** | Re-verify every file/line citation in the pilot audits by hand; freeze the verified results. |
-| **Corpus enrichment** | GitHub-API metadata pass on the V1/V2 segment (stars, language, last-push, archived flag). |
-| **Scale-up audit** | Apply the framework across a larger sample drawn from the 1,000-repo corpus, including minimal-permission baseline repositories. |
+| **Manual verification (in progress)** | Re-verify every file / line citation in the pilot audits by hand; freeze the verified results. |
+| **Corpus enrichment** | GitHub REST API metadata pass; consolidate metadata across both corpus snapshots. |
+| **Scale-up audit** | Apply the framework across a larger sample drawn from the 2,000-repo corpus, including minimal-permission baseline repositories. |
 | **Risk-score model** | Per-repository risk score; validated by CVE backtest against LangChain CVE-2025-68664, Langflow CVE-2025-3248, mcp-remote CVE-2025-6514, and Semantic Kernel CVE-2026-25592 / -26030. |
 | **Anomaly framework** | Rule-based + statistical-outlier + functionality-permission-matching detection framework. |
 | **Mitigation artefacts** | Permission manifest specification, permission scanner, sandbox-policy templates. |
@@ -199,7 +196,7 @@ If you use this corpus or the audit framework, please cite as:
 @misc{trustmeagent2026,
   title  = {Trust Me, I'm an Agent: A Security Measurement of Permission
             and Privilege Exposure in Open-Source LLM Agents},
-  note   = {Corpus snapshot v1.0, 2026-06-13},
+  note   = {Corpus snapshots v1 and v2, 2026-06-13},
   year   = {2026},
   url    = {https://github.com/mrahm65/Trust-Me-I-m-an-Agent-Measuring-the-Security-Exposure-of-Open-Source-LLM-Agents}
 }
